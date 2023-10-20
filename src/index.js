@@ -154,3 +154,4 @@ reviewForm.addEventListener('submit', event => {
 // Initial fetch to load the first beer's details and beer list
 fetchBeerDetails(1); 
 fetchBeerList();
+// wonderful project
